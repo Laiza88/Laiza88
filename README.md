@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá!!
 
-<!--
-**Laiza88/Laiza88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Laiza Padial
 
-Here are some ideas to get you started:
+Estou iniciando meu aprendizado na área de TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Faço parte do programa #ElasNaTech
+
+Sou formada em Administração com enfase em Recursos Humanos
+
+Trabalhei com Recrutamento e Seleção
+
+Atualmente trabalho com assistencia técnica de smartphones, notebooks, tablets e PC's
+
+Mas quero fazer uma transição para a area de TI
+
+#### Para se conectar comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/laizapadial)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/laizapadial?igshid=YmMyMTA2M2Y=)
+
+#### Linguagens:
+
+<div>
+<img align="centeer" alt"Laiza-html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+<img align="centeer" alt"Laiza-css" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+<img align="centeer" alt"Laiza-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
